@@ -1,8 +1,30 @@
-- 👋 Hi, I’m @reethu-penumatsa
-- 👀 I’m interested in writing an efficient, robust and error free code in C programming language 
-- 🌱 I’m currently learning C programming language and pursuing B-Tech in IT 
-- 💞️ I’m looking to collaborate with similar interested people and develop robust applications using C programming language
-- 📫 You can reach me on 22wh1a12b6@bvrithyderabad.edu.in 
+# Hi 👋, I'm Reethu Penumatsa
+
+[![Follow @reethu-penumatsa](https://img.shields.io/github/followers/reethu-penumatsa?label=Follow&style=social)](https://github.com/reethu-penumatsa)
+ | [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reethu-penumatsa-437574259/) |![Profile Views](https://komarev.com/ghpvc/?username=reethu-penumatsa&style=flat-square)
+
+## About Me
+
+I’m Reethu Penumatsa, an aspiring software developer and B.Tech Information Technology student passionate about full-stack development and building impactful solutions. Winner of the ZIGNASA 2k23 Hackathon, I love blending tech skills with analytical thinking to solve real-world problems.
+I had an opportunity to pitch my idea at WE-Hub Telangana.
+
+🌱 Currently deepening my knowledge in web technologies, software development, and startup innovation.  
+
+👯 Looking to collaborate on meaningful projects and open-source contributions.
+
+💬 Ask me about Full-Stack Development, Web Technologies, and Startup Entrepreneurship.
+
+📫 How to reach me: 22wh1a12b6@bvrithyderabad.edu.in
+
+## My Skills
+
+- **Languages:** C, Java, JavaScript, Python  
+- **Web Development:** HTML, CSS, React  
+- **Tools:** Git, GitHub, VS Code  
+- **Others:** Idea pitching
+## Connect with Me
+
+[LinkedIn](https://www.linkedin.com/in/reethu-penumatsa-437574259/) | [Email](mailto:22wh1a12b6@bvrithyderabad.edu.in)
 
 <!---
 reethu-penumatsa/reethu-penumatsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
