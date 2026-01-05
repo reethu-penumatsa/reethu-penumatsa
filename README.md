@@ -7,6 +7,7 @@
 
 I’m Reethu Penumatsa, an aspiring software developer and B.Tech Information Technology student passionate about full-stack development and building impactful solutions. Winner of the ZIGNASA 2k23 Hackathon, I love blending tech skills with analytical thinking to solve real-world problems.
 I had an opportunity to pitch my idea at WE-Hub Telangana.
+As an intern at Optum (UHG), I contributed to building an AI-powered Smart Compare tool that automated change detection across 300+ data points, generated instant summaries, and integrated with ServiceNow, reducing manual analysis time and improving operational efficiency.
 
 🌱 Currently deepening my knowledge in web technologies, software development, and startup innovation.  
 
